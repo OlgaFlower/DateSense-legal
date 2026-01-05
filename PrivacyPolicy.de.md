@@ -2,6 +2,9 @@
 
 **Letzte Aktualisierung:** 2026-01-05
 
+> **Hinweis:** Diese Version der Datenschutzrichtlinie ist eine Übersetzung zur besseren Verständlichkeit.  
+> Im Falle von Abweichungen oder Auslegungsunterschieden ist die englische Version maßgebend.
+
 ---
 
 ## 1. Einleitung
