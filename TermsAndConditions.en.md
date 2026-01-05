@@ -71,7 +71,15 @@ You acknowledge that:
 
 ---
 
-## 7. Age Requirement
+## 7. User Accounts
+
+To access certain features of DateSense, you may be required to create an account. You are responsible for maintaining the confidentiality of your account credentials and for providing accurate and up-to-date information associated with your account.
+
+DateSense uses your email address solely for account creation and authentication purposes. Information about how personal data is processed is described in the Privacy Policy.
+
+---
+
+## 8. Age Requirement
 
 DateSense is not intended for use by children under the age of 13.
 
@@ -79,7 +87,7 @@ If you are between the ages of 13 and 17, you acknowledge that the app is design
 
 ---
 
-## 8. Subscriptions and Payments
+## 9. Subscriptions and Payments
 
 DateSense may offer access to certain features through paid subscriptions.
 
@@ -90,7 +98,7 @@ Subscription pricing, duration, renewal conditions, and applicable trial periods
 
 ---
 
-## 9. Intellectual Property
+## 10. Intellectual Property
 
 All content, design elements, text, and functionality within DateSense are the property of DateSense, unless otherwise stated.
 
@@ -98,7 +106,7 @@ You may not copy, reproduce, distribute, or modify any part of the app without p
 
 ---
 
-## 10. Limitation of Liability
+## 11. Limitation of Liability
 
 To the fullest extent permitted by applicable law:
 - DateSense is provided “as is” and “as available”;
@@ -107,7 +115,7 @@ To the fullest extent permitted by applicable law:
 
 ---
 
-## 11. Changes to These Terms
+## 12. Changes to These Terms
 
 These Terms & Conditions may be updated from time to time.  
 Any changes will be published at this location.
@@ -116,7 +124,7 @@ Continued use of the app after changes indicates acceptance of the updated terms
 
 ---
 
-## 12. Contact
+## 13. Contact
 
 If you have questions regarding these Terms & Conditions, please contact:
 
