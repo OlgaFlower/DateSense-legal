@@ -17,15 +17,19 @@ Wir erheben, übertragen, verkaufen oder teilen keine personenbezogenen Daten mi
 
 ---
 
-## 2. Welche Daten wir verarbeiten
+## 2. Verarbeitete Daten
 
-DateSense verarbeitet ausschließlich Informationen, die Sie freiwillig eingeben, darunter:
+DateSense verarbeitet ausschließlich Informationen, die du freiwillig in der App eingibst. Dazu gehören unter anderem:
 
-- persönliche Reflexionen und Beobachtungen;
+- persönliche Reflexionen;
 - subjektive Bewertungen von Interaktionen;
 - persönliche Notizen oder Antworten auf In-App-Fragen.
 
-Diese Daten dienen ausschließlich dazu, Ihnen persönliche Einblicke bereitzustellen.
+Diese Daten dienen ausschließlich dazu, dir individuelle Einblicke bereitzustellen.
+
+Zur Bereitstellung der kontobasierten Funktionen verarbeitet DateSense außerdem eine E-Mail-Adresse, die für die Registrierung und Authentifizierung verwendet wird. Dabei kann es sich um eine vom Nutzer angegebene E-Mail-Adresse oder um eine von „Mit Apple anmelden“ bereitgestellte private Relay-Adresse handeln.
+
+Die E-Mail-Adresse wird ausschließlich zur Kontoverwaltung verwendet, nicht für Marketing- oder Tracking-Zwecke genutzt und nicht an Dritte weitergegeben.
 
 ---
 
